@@ -75,7 +75,7 @@ Dio is used for making network requests with interceptors for handling errors an
 ## Feature Wised Implementation Example
 Example Work On Google Books Api.
 
-### View>
+### View
 
 ```dart
 import 'package:flutter_mvvm_template/src/router/app_router.dart';
